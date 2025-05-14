@@ -1,38 +1,46 @@
-.App {
+#Main-page {
+  margin: 1px;
+}
+
+.header-element {
+  color: white;
+  background-color: orange;
+  font-family:'papyrus';
+  padding: 8px;
+}
+
+footer {
   text-align: center;
+  margin-top: 37.5rem;
+  color: grey;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.note-handler-box {
+  border-radius: 15px;
+  background-color: lightgrey;
+  box-shadow: 2px, 2px, 2px, 2px lightgrey;
+  text-align: center;
+  max-width: 20rem;
+  min-width: 400px;
+  padding: 15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.mapping-note-boxes {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.input-area {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 10px;
+  margin: 25px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.input-area input {
+  padding: 8px;
+  margin: 5px;
+  width: 25%;
 }
