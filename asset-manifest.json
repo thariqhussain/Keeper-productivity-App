@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thariqhussain/Keeper-productivity-App.git/static/css/main.28577bb3.css",
-    "main.js": "/thariqhussain/Keeper-productivity-App.git/static/js/main.7c9632de.js",
-    "static/js/453.f8e3c419.chunk.js": "/thariqhussain/Keeper-productivity-App.git/static/js/453.f8e3c419.chunk.js",
-    "index.html": "/thariqhussain/Keeper-productivity-App.git/index.html",
-    "main.28577bb3.css.map": "/thariqhussain/Keeper-productivity-App.git/static/css/main.28577bb3.css.map",
-    "main.7c9632de.js.map": "/thariqhussain/Keeper-productivity-App.git/static/js/main.7c9632de.js.map",
-    "453.f8e3c419.chunk.js.map": "/thariqhussain/Keeper-productivity-App.git/static/js/453.f8e3c419.chunk.js.map"
+    "main.css": "/Keeper-productivity-App/static/css/main.28577bb3.css",
+    "main.js": "/Keeper-productivity-App/static/js/main.7ed0159a.js",
+    "static/js/453.f8e3c419.chunk.js": "/Keeper-productivity-App/static/js/453.f8e3c419.chunk.js",
+    "index.html": "/Keeper-productivity-App/index.html",
+    "main.28577bb3.css.map": "/Keeper-productivity-App/static/css/main.28577bb3.css.map",
+    "main.7ed0159a.js.map": "/Keeper-productivity-App/static/js/main.7ed0159a.js.map",
+    "453.f8e3c419.chunk.js.map": "/Keeper-productivity-App/static/js/453.f8e3c419.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28577bb3.css",
-    "static/js/main.7c9632de.js"
+    "static/js/main.7ed0159a.js"
   ]
 }
